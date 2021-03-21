@@ -1,0 +1,21 @@
+Image Gallery
+
+The final app project that I will be working on is an image gallery app. In this app people can share there pictures, life experience, nature, memes and other picture related things.
+This will be something like a social media in which but it will only focus on the photography skills. 
+
+There will be following function in the app:-
+
+1.User Login:- User can login into there account.
+2.User Registration:- user can register then self to share the pictures.
+3.View Picture:- Visitor can view the picture of the user without logging into the app.
+4.Add picture:- user can share their pictures into the app after logging into the app.
+5.Share picture:- user can share picture of a user to other users.
+6.Like picture:- User can like a picture.
+7.Favourite list:- user can add a picture to its Favourite list.
+8.Follow user:- user can follow other user for the notifying there update.
+9.Rate user:- user can rate fellow user to.
+10.Recommendation :- Picture will be recommended according to interest of the user or the visitor
+
+The above mention functionality can be implemented in ionic. The picture can be stored using the MongoDB database. The register and login can be implemented using the firefox database.
+
+The app if feasible can be created in 8 weeks and final app will be a very small version of instagram but that will only be focusing on the photography. 
