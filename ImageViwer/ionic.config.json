@@ -1,0 +1,7 @@
+{
+  "name": "ImageViwer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
